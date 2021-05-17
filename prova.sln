@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Desktop Prova", "..\Desktop Prova\", "{EF7B6BA5-A9A3-4AE5-A613-8B5D3D14B9A4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59497"
+		Debug.AspNetCompiler.PhysicalPath = "..\Desktop Prova\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59497\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59497"
+		Release.AspNetCompiler.PhysicalPath = "..\Desktop Prova\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59497\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59497"
+		SlnRelativePath = "..\Desktop Prova\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7B6BA5-A9A3-4AE5-A613-8B5D3D14B9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7B6BA5-A9A3-4AE5-A613-8B5D3D14B9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3550E6B4-5F1A-4FDC-A3AC-A3D9B724A298}
+	EndGlobalSection
+EndGlobal
